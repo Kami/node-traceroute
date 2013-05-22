@@ -1,7 +1,7 @@
 {
   "name": "tracert",
   "description": "Node.js wrapper for the GNU traceroute command.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Tomaz Muraus <tomaz@tomaz.me>",
   "contributors": [
       {
