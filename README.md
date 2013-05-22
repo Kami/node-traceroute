@@ -1,6 +1,6 @@
 # Node.js Traceroute
 
-Node.js wrapper for GNU `traceroute` command.
+Node.js wrapper for the GNU `traceroute` command.
 
 This is a port of the [Luvit library](https://github.com/Kami/luvit-traceroute) to Node.js.
 
