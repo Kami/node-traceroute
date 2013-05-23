@@ -23,7 +23,6 @@
     "url": "https://github.com/Kami/nodw-traceroute"
   },
   "dependencies": {
-    "async": "0.2.x",
     "line-emitter": "0.1.x"
   },
   "devDependencies": {
